@@ -9,10 +9,7 @@
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
-
-*{
-    font-weight: 400;
-}
+url(main.js)
 
 body{
     color: var(--branco);
